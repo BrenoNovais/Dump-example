@@ -1,0 +1,15 @@
+{
+  "name": "dump-example",
+  "version": "1.0.0",
+  "description": "Criando dump com execa",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "BrenoNovais",
+  "license": "ISC",
+  "dependencies": {
+    "execa": "^6.1.0"
+  }
+}
